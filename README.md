@@ -1,7 +1,7 @@
-<center>列维辞典(Levy dictionary)</center>
+<p align="center">列维辞典(Levy dictionary)</p>
 ====
 目录
-____
+----
 # 前言
 # 第一篇
 # 第二篇
