@@ -1,5 +1,5 @@
-= 列维辞典(Levy dictionary)
-_ 目录
+==列维辞典(Levy dictionary)
+__目录
 # 前言
 # 第一篇
 # 第二篇
