@@ -3,6 +3,6 @@
 # 目录
 ## 前言
 ## 第一篇
-1. [协防军](https://github.com/dodio12138/LevyDictionary/ChapterOne/Helpdefenseforce)
+1. [协防军](ChapterOne/Helpdefenseforce.md)
 ## 第二篇
 ## 第三篇
