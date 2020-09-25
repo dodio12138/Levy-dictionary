@@ -1,4 +1,4 @@
-<p align="center">列维辞典(Levy dictionary)</p>
+列维辞典(Levy dictionary)
 ====
 目录
 ----
